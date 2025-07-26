@@ -56,7 +56,6 @@ To analyze a digital lender’s loan-level and customer-level data against polic
 - 📈 5× increase in complaints (2021–2025)
 - 🚩 Spike in Interest Rate and No-Response complaints
 
----
 
  📊 Visual Outputs
 
@@ -67,7 +66,7 @@ To analyze a digital lender’s loan-level and customer-level data against polic
 - Category-wise complaint stacked bar
 - APR vs CIBIL scatter for risk-based pricing validation
 
-(Images in /charts folder)
+
 
 ---
 
@@ -85,10 +84,8 @@ To analyze a digital lender’s loan-level and customer-level data against polic
 
  📄 Deliverables
 
-- 📝 Jupyter Notebook (Regulatory_Audit_Analysis.ipynb)
-- 📊 Chart visuals folder
-- 📄 Summary Report PDF (attached or linked)
-- 🖼 Presentation deck (optional: 5 slides)
+- 📝 Jupyter Notebooks
+- 🖼 Presentation deck 
 
 ---
 
@@ -103,7 +100,7 @@ To analyze a digital lender’s loan-level and customer-level data against polic
 
  📬 Contact
 
-Made with ❤ by [Your Name]  
+Made with ❤ by Abhinav Kuntal
 Course: Fintech Strategy & Supervision  
-Institution: [Your College or Program]  
-Email: yourname@email.com | GitHub: [yourusername]
+Institution: Great Lakes Institute of Management Gurgaon 
+
